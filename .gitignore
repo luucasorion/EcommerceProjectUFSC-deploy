@@ -49,6 +49,7 @@ CodeCoverage/
 [Bb]uild[Ll]og.*
 
 # NUnit
+*.idea
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
